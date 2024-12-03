@@ -1,5 +1,7 @@
 # 📚 Crude and brief tutorial of how to perform simple modding in S.T.A.L.K.E.R. 2: Heart of Chornobyl ☢️
 
+![The animation shows how to navigate to the Stalker 2 config files](assets/navigate-to-stalker2-configs.gif)
+
 ## 🔨 Get the tools
 
 - Fmodel [https://github.com/4sval/FModel/releases](https://github.com/4sval/FModel/releases "https://github.com/4sval/FModel/releases")

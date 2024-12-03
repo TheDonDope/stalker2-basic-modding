@@ -7,6 +7,10 @@
 # Allow LICENSE
 !LICENSE
 
+# Allow the assets folder and its contents
+!assets/
+!assets/**
+
 # Allow directories but exclude their contents
 # !*/
 
