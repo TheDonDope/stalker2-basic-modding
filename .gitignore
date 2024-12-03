@@ -1,0 +1,15 @@
+# Exclude everything
+*
+
+# Allow README.md
+!README.md
+
+# Allow LICENSE
+!LICENSE
+
+# Allow directories but exclude their contents
+# !*/
+
+# Optionally, exclude any .gitignore files themselves
+!.gitignore
+
